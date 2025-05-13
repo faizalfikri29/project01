@@ -143,6 +143,13 @@ if (isset($_GET['edit'])) {
                     </tbody>
                 </table>
             </div>
+
+
+
+
+
+
+            
             <!-- Modal untuk Tambah -->
             <div class="modal fade" id="tambahModal" tabindex="-1" aria-labelledby="tambahModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
